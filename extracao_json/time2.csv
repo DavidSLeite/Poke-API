@@ -1,0 +1,7 @@
+;codigo_pokedex;nome_pokemon;naturezas;imagem
+0;457;Lumineon;['Water'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png
+1;20;Raticate;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png
+2;253;Grovyle;['Grass'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png
+3;756;Shiinotic;['Grass', 'Fairy'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png
+4;774;Minior-Red-Meteor;['Rock', 'Flying'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png
+5;263;Zigzagoon;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png

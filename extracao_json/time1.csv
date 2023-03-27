@@ -1,0 +1,7 @@
+;codigo_pokedex;nome_pokemon;naturezas;imagem
+0;71;Victreebel;['Grass', 'Poison'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png
+1;831;Wooloo;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png
+2;327;Spinda;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png
+3;207;Gligar;['Ground', 'Flying'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png
+4;313;Volbeat;['Bug'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png
+5;628;Braviary;['Normal', 'Flying'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png

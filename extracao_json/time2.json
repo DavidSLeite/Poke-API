@@ -1,0 +1,52 @@
+[
+    {
+        "codigo_pokedex": 457,
+        "nome_pokemon": "Lumineon",
+        "naturezas": [
+            "Water"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png"
+    },
+    {
+        "codigo_pokedex": 20,
+        "nome_pokemon": "Raticate",
+        "naturezas": [
+            "Normal"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    },
+    {
+        "codigo_pokedex": 253,
+        "nome_pokemon": "Grovyle",
+        "naturezas": [
+            "Grass"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png"
+    },
+    {
+        "codigo_pokedex": 756,
+        "nome_pokemon": "Shiinotic",
+        "naturezas": [
+            "Grass",
+            "Fairy"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png"
+    },
+    {
+        "codigo_pokedex": 774,
+        "nome_pokemon": "Minior-Red-Meteor",
+        "naturezas": [
+            "Rock",
+            "Flying"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png"
+    },
+    {
+        "codigo_pokedex": 263,
+        "nome_pokemon": "Zigzagoon",
+        "naturezas": [
+            "Normal"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png"
+    }
+]

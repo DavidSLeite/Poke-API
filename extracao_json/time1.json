@@ -1,0 +1,53 @@
+[
+    {
+        "codigo_pokedex": 71,
+        "nome_pokemon": "Victreebel",
+        "naturezas": [
+            "Grass",
+            "Poison"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+    },
+    {
+        "codigo_pokedex": 831,
+        "nome_pokemon": "Wooloo",
+        "naturezas": [
+            "Normal"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png"
+    },
+    {
+        "codigo_pokedex": 327,
+        "nome_pokemon": "Spinda",
+        "naturezas": [
+            "Normal"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png"
+    },
+    {
+        "codigo_pokedex": 207,
+        "nome_pokemon": "Gligar",
+        "naturezas": [
+            "Ground",
+            "Flying"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
+    },
+    {
+        "codigo_pokedex": 313,
+        "nome_pokemon": "Volbeat",
+        "naturezas": [
+            "Bug"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png"
+    },
+    {
+        "codigo_pokedex": 628,
+        "nome_pokemon": "Braviary",
+        "naturezas": [
+            "Normal",
+            "Flying"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png"
+    }
+]
