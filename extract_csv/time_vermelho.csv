@@ -1,0 +1,7 @@
+;codigo_pokedex;nome_pokemon;naturezas;imagem
+0;153;Bayleef;['Grass'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png
+1;669;Flabebe;['Fairy'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png
+2;26;Raichu;['Electric'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+3;2;Ivysaur;['Grass', 'Poison'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+4;706;Goodra;['Dragon'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png
+5;573;Cinccino;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png

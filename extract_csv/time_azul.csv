@@ -1,0 +1,7 @@
+;codigo_pokedex;nome_pokemon;naturezas;imagem
+0;536;Palpitoad;['Water', 'Ground'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png
+1;820;Greedent;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png
+2;583;Vanillish;['Ice'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png
+3;187;Hoppip;['Grass', 'Flying'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png
+4;6;Charizard;['Fire', 'Flying'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+5;76;Golem;['Rock', 'Ground'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png

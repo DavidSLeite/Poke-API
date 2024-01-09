@@ -1,0 +1,52 @@
+[
+    {
+        "codigo_pokedex": 144,
+        "nome_pokemon": "Articuno",
+        "naturezas": [
+            "Ice",
+            "Flying"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
+    },
+    {
+        "codigo_pokedex": 182,
+        "nome_pokemon": "Bellossom",
+        "naturezas": [
+            "Grass"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png"
+    },
+    {
+        "codigo_pokedex": 447,
+        "nome_pokemon": "Riolu",
+        "naturezas": [
+            "Fighting"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png"
+    },
+    {
+        "codigo_pokedex": 822,
+        "nome_pokemon": "Corvisquire",
+        "naturezas": [
+            "Flying"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/822.png"
+    },
+    {
+        "codigo_pokedex": 654,
+        "nome_pokemon": "Braixen",
+        "naturezas": [
+            "Fire"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png"
+    },
+    {
+        "codigo_pokedex": 528,
+        "nome_pokemon": "Swoobat",
+        "naturezas": [
+            "Psychic",
+            "Flying"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png"
+    }
+]

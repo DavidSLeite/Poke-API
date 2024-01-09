@@ -1,0 +1,51 @@
+[
+    {
+        "codigo_pokedex": 291,
+        "nome_pokemon": "Ninjask",
+        "naturezas": [
+            "Bug",
+            "Flying"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png"
+    },
+    {
+        "codigo_pokedex": 671,
+        "nome_pokemon": "Florges",
+        "naturezas": [
+            "Fairy"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png"
+    },
+    {
+        "codigo_pokedex": 243,
+        "nome_pokemon": "Raikou",
+        "naturezas": [
+            "Electric"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png"
+    },
+    {
+        "codigo_pokedex": 134,
+        "nome_pokemon": "Vaporeon",
+        "naturezas": [
+            "Water"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
+    },
+    {
+        "codigo_pokedex": 236,
+        "nome_pokemon": "Tyrogue",
+        "naturezas": [
+            "Fighting"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png"
+    },
+    {
+        "codigo_pokedex": 388,
+        "nome_pokemon": "Grotle",
+        "naturezas": [
+            "Grass"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png"
+    }
+]
