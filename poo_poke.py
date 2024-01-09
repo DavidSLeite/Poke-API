@@ -81,7 +81,7 @@ class PokemonAPI:
         )
 
     def __generate_path(self) -> None:
-        """ """
+        """Cria path de destino caso não existir"""
         if not os.path.exists(self.__path):
             os.makedirs(self.__path)
 
