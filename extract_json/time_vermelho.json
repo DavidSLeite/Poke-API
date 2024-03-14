@@ -1,52 +1,51 @@
 [
     {
-        "codigo_pokedex": 144,
-        "nome_pokemon": "Articuno",
+        "codigo_pokedex": 478,
+        "nome_pokemon": "Froslass",
         "naturezas": [
             "Ice",
-            "Flying"
+            "Ghost"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png"
     },
     {
-        "codigo_pokedex": 182,
-        "nome_pokemon": "Bellossom",
+        "codigo_pokedex": 427,
+        "nome_pokemon": "Buneary",
         "naturezas": [
-            "Grass"
+            "Normal"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png"
     },
     {
-        "codigo_pokedex": 447,
-        "nome_pokemon": "Riolu",
+        "codigo_pokedex": 831,
+        "nome_pokemon": "Wooloo",
         "naturezas": [
-            "Fighting"
+            "Normal"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png"
     },
     {
-        "codigo_pokedex": 822,
-        "nome_pokemon": "Corvisquire",
+        "codigo_pokedex": 341,
+        "nome_pokemon": "Corphish",
         "naturezas": [
-            "Flying"
+            "Water"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/822.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png"
     },
     {
-        "codigo_pokedex": 654,
-        "nome_pokemon": "Braixen",
+        "codigo_pokedex": 578,
+        "nome_pokemon": "Duosion",
         "naturezas": [
-            "Fire"
+            "Psychic"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png"
     },
     {
-        "codigo_pokedex": 528,
-        "nome_pokemon": "Swoobat",
+        "codigo_pokedex": 864,
+        "nome_pokemon": "Cursola",
         "naturezas": [
-            "Psychic",
-            "Flying"
+            "Ghost"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/864.png"
     }
 ]

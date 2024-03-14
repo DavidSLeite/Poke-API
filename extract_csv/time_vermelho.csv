@@ -1,7 +1,7 @@
 ;codigo_pokedex;nome_pokemon;naturezas;imagem
-0;153;Bayleef;['Grass'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png
-1;669;Flabebe;['Fairy'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png
-2;26;Raichu;['Electric'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
-3;2;Ivysaur;['Grass', 'Poison'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
-4;706;Goodra;['Dragon'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png
-5;573;Cinccino;['Normal'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png
+0;321;Wailord;['Water'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png
+1;26;Raichu;['Electric'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+2;519;Pidove;['Normal', 'Flying'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png
+3;214;Heracross;['Bug', 'Fighting'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png
+4;345;Lileep;['Rock', 'Grass'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png
+5;377;Regirock;['Rock'];https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png

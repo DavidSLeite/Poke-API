@@ -1,51 +1,53 @@
 [
     {
-        "codigo_pokedex": 291,
-        "nome_pokemon": "Ninjask",
+        "codigo_pokedex": 482,
+        "nome_pokemon": "Azelf",
         "naturezas": [
-            "Bug",
-            "Flying"
+            "Psychic"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png"
     },
     {
-        "codigo_pokedex": 671,
-        "nome_pokemon": "Florges",
+        "codigo_pokedex": 578,
+        "nome_pokemon": "Duosion",
         "naturezas": [
+            "Psychic"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png"
+    },
+    {
+        "codigo_pokedex": 20,
+        "nome_pokemon": "Raticate",
+        "naturezas": [
+            "Normal"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    },
+    {
+        "codigo_pokedex": 435,
+        "nome_pokemon": "Skuntank",
+        "naturezas": [
+            "Poison",
+            "Dark"
+        ],
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png"
+    },
+    {
+        "codigo_pokedex": 858,
+        "nome_pokemon": "Hatterene",
+        "naturezas": [
+            "Psychic",
             "Fairy"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858.png"
     },
     {
-        "codigo_pokedex": 243,
-        "nome_pokemon": "Raikou",
+        "codigo_pokedex": 701,
+        "nome_pokemon": "Hawlucha",
         "naturezas": [
-            "Electric"
+            "Fighting",
+            "Flying"
         ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png"
-    },
-    {
-        "codigo_pokedex": 134,
-        "nome_pokemon": "Vaporeon",
-        "naturezas": [
-            "Water"
-        ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
-    },
-    {
-        "codigo_pokedex": 236,
-        "nome_pokemon": "Tyrogue",
-        "naturezas": [
-            "Fighting"
-        ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png"
-    },
-    {
-        "codigo_pokedex": 388,
-        "nome_pokemon": "Grotle",
-        "naturezas": [
-            "Grass"
-        ],
-        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png"
+        "imagem": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png"
     }
 ]
